@@ -1,6 +1,6 @@
 - 👋 Hi, I’m github
 - 👀 I’m interested in github
-- 🌱 I’m currently learning coding, gitnore
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on, github
 - 📫 How to reach me, github
 <!---
